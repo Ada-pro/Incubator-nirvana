@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="CSBG01_ada,ada_test01,carrier">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\workplace\CSBG01_ada\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="userprofile">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\workplace\CSBG01_ada\userprofile\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="dataware">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\workplace\CSBG01_ada\dataware\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 4" modules="recommend">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\workplace\CSBG01_ada\recommend\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 5" modules="demo">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\workplace\CSBG01_ada\commons\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
